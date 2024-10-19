@@ -34,7 +34,7 @@ export const brandsMenu = [
     },
     {
         id: 3,
-        label: "Adias",
+        label: "Adidas",
         checked: false,
     },
 ];

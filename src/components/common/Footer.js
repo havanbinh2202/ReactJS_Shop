@@ -71,8 +71,8 @@ const Footer = () => {
             <div className="foot_copyright">
               <p>
                 {currYear} | WINX. All Rights Reserved. Built by |{" "}
-                <a href="https://gulshansongara.netlify.app/">
-                  Gulshan Songara
+                <a href="/">
+                  Thang Binh
                 </a>
               </p>
             </div>
